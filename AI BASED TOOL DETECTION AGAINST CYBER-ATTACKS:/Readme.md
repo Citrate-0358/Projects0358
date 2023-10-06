@@ -1,0 +1,1 @@
+Protection tool against cyber-attacks.  Monitor a network or system for malicious activity and protects a computer network from unauthorized access from users, including perhaps insider. The  detector learning task is to build a predictive model (i.e. a classifier) capable of distinguishing between ‘bad connections’ (attacks/Anomalies ) and a ‘good (normal) connections’.
