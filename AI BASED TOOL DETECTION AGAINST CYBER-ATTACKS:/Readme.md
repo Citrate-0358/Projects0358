@@ -1,1 +1,2 @@
 Protection tool against cyber-attacks.  Monitor a network or system for malicious activity and protects a computer network from unauthorized access from users, including perhaps insider. The  detector learning task is to build a predictive model (i.e. a classifier) capable of distinguishing between ‘bad connections’ (attacks/Anomalies ) and a ‘good (normal) connections’.
+![Map](https://github.com/Citrate-0358/Projects0358/assets/105128695/4bb16e5f-9c56-42bc-9fba-64bfe5545f3f)
